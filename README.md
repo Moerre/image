@@ -1,2 +1,2 @@
-# img Repository
+# image Repository
 ****
